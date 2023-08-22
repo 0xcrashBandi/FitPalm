@@ -1,6 +1,7 @@
 package com.example.fitpalm_2v
 
 import androidx.compose.ui.graphics.vector.ImageVector
+import com.example.fitpalm.R
 
 sealed class Screen(
     var name:String,
